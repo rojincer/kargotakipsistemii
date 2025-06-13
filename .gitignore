@@ -1,0 +1,49 @@
+## Build sonuçları
+bin/
+obj/
+
+## Kullanıcı ayarları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio klasörleri
+.vs/
+
+## ReSharper / Rider
+*.DotSettings.user
+.idea/
+
+## NuGet paketleri
+*.nupkg
+packages/
+*.snupkg
+
+## Derleme önbellekleri
+*.cache
+*.dbmdl
+
+## Log dosyaları
+*.log
+
+## Geçici dosyalar
+*.tmp
+*.bak
+
+## Yayınlama klasörleri
+publish/
+
+## JSON ayar dosyaları
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.json
+
+## .NET kullanıcı gizli dosyaları
+*.pdb
+*.mdb
+
+## Diğer
+Thumbs.db
+ehthumbs.db
+Desktop.ini
