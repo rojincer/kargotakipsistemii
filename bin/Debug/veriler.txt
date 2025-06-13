@@ -1,0 +1,8 @@
+Yurtici|1239585|rojin|Bekliyor
+Yurtici|125363|su|Bekliyor
+Yurtici|2344567|canan|TeslimEdildi
+Yurtdisi|23582|Azra|Bekliyor
+Yurtdisi|10067|Ali Eren|Bekliyor
+Yurtici|27801|Diyar Baysal|Bekliyor
+Yurtdisi|12345|İhsan Tokatlı|Bekliyor
+Yurtici|01234|Yusuf Ay|Bekliyor

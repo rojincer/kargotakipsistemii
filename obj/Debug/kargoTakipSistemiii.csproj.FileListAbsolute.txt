@@ -1,0 +1,10 @@
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.csproj.AssemblyReference.cache
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.Properties.Resources.resources
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.csproj.GenerateResource.cache
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.csproj.CoreCompileInputs.cache
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.AnaForm.resources
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\bin\Debug\kargoTakipSistemiii.exe.config
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\bin\Debug\kargoTakipSistemiii.exe
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\bin\Debug\kargoTakipSistemiii.pdb
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.exe
+C:\Users\ROCK\source\repos\kargoTakipSistemiii\kargoTakipSistemiii\obj\Debug\kargoTakipSistemiii.pdb
